@@ -1,0 +1,209 @@
+    #headleft {
+        position: absolute;
+        left: 2%;
+        right: 0%;
+        top: 2.69%;
+        bottom: 0%;
+    }
+    
+    #headright {
+        position: absolute;
+        left: 92.08%;
+        right: 5.42%;
+        top: 4.69%;
+        bottom: 92.92%;
+    }
+    
+    #bubbles {
+        position: absolute;
+        height: 300px;
+        right: 10%;
+        top: 2.69%;
+    }
+    
+    #yellow {
+        position: absolute;
+        margin-left: 700px;
+        margin-top: -15%;
+        /*overflow: auto;*/
+    }
+    
+    #blue {
+        position: absolute;
+        margin-left: 1150px;
+        margin-top: -45px;
+        height: 270px;
+    }
+    
+    #red {
+        position: absolute;
+        width: 120px;
+        height: 119.4px;
+        left: 1180px;
+        top: 509.88px;
+    }
+    
+    #test1 {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 38px;
+        line-height: 46px;
+        /* primary-color */
+        color: #03256C;
+        margin-top: 200px;
+        margin-left: 38px;
+    }
+    
+    #mob {
+        margin-left: 18px;
+        margin-top: -50px;
+    }
+    
+    #a1 {
+        margin-bottom: -35px;
+        margin-left: -385px;
+    }
+    
+    #form {
+        position: absolute;
+        width: 425px;
+        height: 651px;
+        left: 810px;
+        top: 80px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+    }
+    
+    input[type=text] {
+        margin: 5px;
+        width: 385px;
+        height: 36px;
+        top: 177px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+        border: 2px solid #2541B2;
+        border-radius: 1px;
+        font-family: Noto Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        margin-left: 15px;
+    }
+    
+    #policy {
+        width: 477px;
+        height: 9px;
+        font-family: Noto Sans;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12.5px;
+        line-height: 50.9%;
+        color: #464646;
+        margin-left: 2px;
+    }
+    
+    input[type=checkbox] {
+        width: 26px;
+        height: 24px;
+        left: 0px;
+        top: 0px;
+        border: 2px solid #03256C;
+        margin: 7px;
+        margin-left: 15px;
+    }
+    
+    #signup_button {
+        color: #fff;
+        width: 400px;
+        Height: 26.25px;
+        position: absolute;
+        left: 3.5%;
+        right: 8%;
+        background: #03256C;
+        border-radius: 50px;
+        bottom: 22.89%;
+    }
+    
+    #account {
+        position: absolute;
+        width: 229px;
+        height: 20px;
+        left: 120px;
+        font-family: Noto Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 112.9%;
+        color: #464646;
+        bottom: 15%;
+    }
+    
+    #signin_button {
+        width: 400px;
+        Height: 26.25px;
+        position: absolute;
+        left: 4.8%;
+        right: 8%;
+        bottom: 7%;
+        border: 3px solid #03256C;
+        box-sizing: border-box;
+        border-radius: 50px;
+        color: #03256C;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+    }
+    
+    label {
+        font-family: Noto Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 30px;
+        color: #2541B2;
+        margin: 7px;
+        margin-left: 15px;
+        padding-top: 10px;
+    }
+    
+    #footer {
+        position: fixed;
+        left: 0;
+        bottom: 20px;
+        width: 100%;
+    }
+    
+    #footerleft {
+        /*left: 0px;
+                                      text-align: left;
+                                      font-size: 15px;*/
+        position: absolute;
+        left: 1.88%;
+        right: 46.51%;
+        top: 50%;
+        bottom: 50%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        /* identical to box height */
+        color: #616161;
+    }
+    
+    #footerright {
+        position: absolute;
+        left: 76.63%;
+        right: -0.3%;
+        top: 50%;
+        bottom: 50%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 0%;
+        /* identical to box height, or 0px */
+        color: #616161;
+    }

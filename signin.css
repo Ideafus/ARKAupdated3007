@@ -1,0 +1,236 @@
+    #headleft {
+        position: absolute;
+        left: 2%;
+        right: 0%;
+        top: 2.69%;
+        bottom: 0%;
+    }
+    
+    #headright {
+        position: absolute;
+        left: 92.08%;
+        right: 5.42%;
+        top: 4.69%;
+        bottom: 92.92%;
+    }
+    
+    #bubbles {
+        position: absolute;
+        height: 300px;
+        right: 10%;
+        top: 2.69%;
+    }
+    
+    #objects {
+        position: absolute;
+        left: 0px;
+        top: 30%;
+        width: 850px;
+        height: 350px;
+    }
+    
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .login {
+        position: relative;
+        width: 420px;
+        overflow: auto;
+        margin: top;
+        margin: 20 0 0 50px;
+        padding: 50px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 15px;
+        background: #ffffff;
+        border-radius: 15px;
+        margin-top: 8%;
+        margin-right: 13%;
+        float: right;
+        float: right;
+        background: #ffffff;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 10px;
+        height: 509px;
+        overflow: 5px;
+    }
+    
+    #userlogintext {
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 112.9%;
+        /* or 54px */
+        /* primary-color */
+        color: #03256c;
+        text-align: center;
+    }
+    
+    label {
+        font-family: Noto Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 30px;
+        /* identical to box height */
+        /* secondary-color */
+        color: #2541b2;
+    }
+    
+    input[type="text"],
+    input[type="Password"] {
+        width: 430px;
+        height: 36px;
+        /*margin: 5px;
+                top: 177px;
+                */
+        background: #ffffff;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25);
+        border: 2px solid #2541b2;
+        border-radius: 1px;
+        font-family: Noto Sans;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        /* margin-left: 15px;*/
+    }
+    
+    #fpassword {
+        font-family: Nunito Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 112.9%;
+        /* identical to box height, or 16px */
+        color: #30478c;
+        margin-right: 0px;
+        float: right;
+        margin: 5px;
+    }
+    
+    input[type="checkbox"] {
+        width: 26px;
+        height: 34px;
+        left: 0px;
+        bottom: 50px;
+        border: 2px solid #03256c;
+        margin: 7px;
+        margin-left: 0px;
+    }
+    
+    #remember {
+        position: absolute;
+        margin-top: 6.8px;
+    }
+    
+    #log {
+        color: #fff;
+        width: 450px;
+        height: 26.25px;
+        position: absolute;
+        /*left: 60.5%;
+                        right: 8%;*/
+        background: #03256c;
+        border-radius: 50px;
+        margin-left: 0px;
+        /* bottom: 22.89%;*/
+    }
+    
+    #log1 {
+        color: #fff;
+        width: 450px;
+        height: 26.25px;
+        position: absolute;
+        /*left: 60.5%;
+                        right: 8%;*/
+        /*background: #03256C;*/
+        color: #03256c;
+        border-radius: 50px;
+        margin-left: 0px;
+        margin-right: -10px;
+        margin-top: -5px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        /* bottom: 22.89%;*/
+    }
+    
+    #yellow {
+        position: absolute;
+        margin-left: 720px;
+        margin-top: 2%;
+        /*overflow: auto;*/
+    }
+    
+    #blue {
+        position: absolute;
+        margin-left: 1270px;
+        margin-top: 160px;
+        height: 270px;
+    }
+    
+    #red {
+        position: absolute;
+        width: 120px;
+        height: 119.4px;
+        left: 1285px;
+        top: 509.88px;
+    }
+    
+    #footer {
+        position: fixed;
+        left: 0;
+        bottom: 20px;
+        width: 100%;
+    }
+    
+    #footerleft {
+        /*left: 0px;
+                                          text-align: left;
+                                          font-size: 15px;*/
+        position: absolute;
+        left: 1.88%;
+        right: 46.51%;
+        top: 50%;
+        bottom: 50%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+        /* identical to box height */
+        color: #616161;
+    }
+    
+    #footerright {
+        position: absolute;
+        left: 76.63%;
+        right: -0.3%;
+        top: 50%;
+        bottom: 50%;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 0%;
+        /* identical to box height, or 0px */
+        color: #616161;
+    }
+    /* #yellowcircle {
+                                    margin-top: 5%;
+                                }
+                                /*
+.hover01 figure img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.hover01 figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}*/

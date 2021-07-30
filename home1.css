@@ -1,0 +1,129 @@
+#head {
+    position: absolute;
+    left: 2%;
+    right: 0%;
+    top: 2.69%;
+    bottom: 0%;
+}
+
+#headright {
+    position: absolute;
+    left: 92.08%;
+    right: 5.42%;
+    top: 4.69%;
+    bottom: 92.92%;
+}
+
+#see {
+    position: absolute;
+    width: 751px;
+    height: 48px;
+    left: 355px;
+    top: 102px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 0px;
+    /* identical to box height */
+    color: #2A3885;
+}
+
+#see1 {
+    position: absolute;
+    width: 1034px;
+    height: 98px;
+    left: 203px;
+    top: 219px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #2541B2;
+}
+
+#vback {
+    position: absolute;
+    left: 44.18%;
+    right: 21.48%;
+    top: 46.26%;
+    bottom: 19.43%;
+    height: 195px;
+}
+
+#group {
+    position: absolute;
+    left: 46.35%;
+    right: 17.9%;
+    top: 50%;
+    bottom: 15.53%;
+    height: 138px;
+}
+
+#explore {
+    position: absolute;
+    left: 48.5%;
+    top: 58%;
+    font-size: 22px;
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+}
+
+#hand {
+    position: absolute;
+    left: 32.5%;
+    right: 42.17%;
+    top: 55.09%;
+    bottom: -7.52%;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+}
+
+#footerleft {
+    /*left: 0px;
+  text-align: left;
+  font-size: 15px;*/
+    position: absolute;
+    left: 1.88%;
+    right: 46.51%;
+    top: 50%;
+    bottom: 50%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #616161;
+}
+
+#rectangleleft {
+    position: absolute;
+    left: 32.1%;
+    right: 53.03%;
+    top: 58%;
+    bottom: 33.33%;
+    background: radial-gradient(50% 50% at 50% 50%, #2541B2 0%, rgba(37, 65, 178, 0) 100%);
+    border-radius: 5px;
+}
+
+#rectangleright {
+    position: absolute;
+    left: 61.18%;
+    right: 2.95%;
+    top: 58%;
+    bottom: 33.33%;
+    background: radial-gradient(50% 50% at 50% 50%, #2541B2 0%, rgba(37, 65, 178, 0) 100%);
+    border-radius: 5px;
+}

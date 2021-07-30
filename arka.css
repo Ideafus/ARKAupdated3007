@@ -1,0 +1,107 @@
+#headleft {
+    position: absolute;
+    left: 2%;
+    right: 0%;
+    top: 2.69%;
+    bottom: 0%;
+}
+
+#headright {
+    position: absolute;
+    left: 92.08%;
+    right: 5.42%;
+    top: 4.69%;
+    bottom: 92.92%;
+}
+
+#bubbles {
+    position: absolute;
+    height: 300px;
+    right: 10%;
+    top: 2.69%;
+}
+
+#signup_button {
+    color: #fff;
+    width: 90px;
+    Height: 30px;
+    position: absolute;
+    background: #03256C;
+    border-radius: 50px;
+    bottom: 22.89%;
+    top: 30px;
+    right: 250px;
+}
+
+#svg {
+    position: absolute;
+    width: 150px;
+    height: 60px;
+    left: 645px;
+    top: 127px;
+}
+
+#para {
+    position: absolute;
+    width: 1285px;
+    height: 135px;
+    left: 77px;
+    top: 208px;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 35px;
+    /* or 194% */
+    letter-spacing: 0.03em;
+    /* secondary-color */
+    color: #2541B2;
+}
+
+#solarka {
+    position: absolute;
+    width: 1407px;
+    height: 992px;
+    left: -23px;
+    top: 48px;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+}
+
+#footerleft {
+    /*left: 0px;
+      text-align: left;
+      font-size: 15px;*/
+    position: absolute;
+    left: 1.88%;
+    right: 46.51%;
+    top: 50%;
+    bottom: 50%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #616161;
+}
+
+#footerright {
+    position: absolute;
+    left: 76.63%;
+    right: -0.3%;
+    top: 50%;
+    bottom: 50%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 0%;
+    /* identical to box height, or 0px */
+    color: #616161;
+}

@@ -1,0 +1,124 @@
+  .container-center-horizontal {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      pointer-events: none;
+      width: 100%;
+      right: 50px
+  }
+  
+  .container-center-horizontal>* {
+      flex-shrink: 0;
+      pointer-events: auto;
+      right: 50px
+  }
+  
+  .button1 {
+      background-color: #0e0af3;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+      margin-left: 80px;
+  }
+  
+  h1 {
+      margin-left: 80px;
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 72px;
+      line-height: 96px;
+      color: #03256C;
+  }
+  
+  h2 {
+      margin-left: 80px;
+      font-family: Noto Sans;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 36px;
+      line-height: 50px;
+      /* or 139% */
+      letter-spacing: 0.03em;
+  }
+  
+  #signup_button {
+      color: #fff;
+      width: 90px;
+      Height: 30px;
+      position: absolute;
+      background: #03256C;
+      border-radius: 50px;
+      bottom: 22.89%;
+      top: 15px;
+      right: 250px;
+  }
+  
+  #explore {
+      position: absolute;
+      width: 250px;
+      height: 50px;
+      left: 126px;
+      top: 500px;
+      background: #3364C2;
+      border-radius: 50px;
+      color: white;
+  }
+  
+  #head {
+      margin-left: 60px;
+  }
+  
+  #footer {
+      position: fixed;
+      left: 0;
+      bottom: 20px;
+      width: 100%;
+  }
+  
+  #footerleft {
+      /*left: 0px;
+  text-align: left;
+  font-size: 15px;*/
+      position: absolute;
+      left: 1.88%;
+      right: 46.51%;
+      top: 50%;
+      bottom: 50%;
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 22px;
+      /* identical to box height */
+      color: #616161;
+  }
+  
+  #footerright {
+      position: absolute;
+      left: 76.63%;
+      right: -0.3%;
+      top: 50%;
+      bottom: 50%;
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 0%;
+      /* identical to box height, or 0px */
+      color: #616161;
+  }
+  
+  #circle {
+      position: absolute;
+      width: 1043px;
+      height: 771px;
+      left: 460px;
+      top: -58px;
+  }
